@@ -34,9 +34,11 @@ In short, whenever you're stuck thinking:
 ## 🛠️ Requirements
 
 - Python 3.x
-- `mysql-connector-python` (or `pymysql`, based on your implementation)
+- `sqlalchemy`
 
 Install dependencies:
 
 ```bash
-pip install mysql-connector-python
+pip install SQLAlchemy
+pip install SQLAlchemy pymysql
+
