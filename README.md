@@ -1,5 +1,5 @@
 # schema_value_lookup
-Easily locate where a value exists in your MySQL database — table, column
+Easily locate where a value exists in your MySQL database table, column
 
 # 🔍 Find Value in MySQL Database Schema
 
@@ -27,7 +27,7 @@ This tool is especially handy in the following situations:
 
 In short, whenever you're stuck thinking:  
 🧠 *“Where the hell is this value stored?”*  
-— this notebook is your quick fix.
+this notebook is your quick fix.
 
 ---
 
